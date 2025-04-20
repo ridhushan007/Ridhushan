@@ -26,26 +26,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
-
-# 📊 GitHub Activity:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridhushan&show_icons=true&theme=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhushan&layout=compact&theme=transparent)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ridhushan&theme=default)](https://git.io/streak-stats)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridhushan/ridhushan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridhushan/ridhushan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ridhushan/ridhushan/output/github-snake.svg" />
-</picture>
-
----
-
-📫 **Let’s Connect!**  
-[LinkedIn](https://linkedin.com/in/yourname) | [Portfolio](https://yourwebsite.com) | [Mail](mailto:youremail@gmail.com)
-
----
-
-> “Keep learning, keep building. The rest will follow.” 🚀
